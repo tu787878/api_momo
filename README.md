@@ -2,7 +2,7 @@
 *Xử lý backend thanh toán momo thông qua QR-Code - Sử dụng nodejs*  
 
 ## Cách cài đặt
-- Bước 1: Instal nodejs  
+- Bước 1: Install nodejs  
   `sudo apt install nodejs`
 - Bước 2: Tải code từ github về  
   `sudo git clone https://github.com/tu787878/api_momo.git`  
