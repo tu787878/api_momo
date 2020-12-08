@@ -1,12 +1,12 @@
 # API Server QRCode Momo 
 *Processing momo-payment backend through QR-Code - Use nodejs*  
 
-## Cách cài đặt
+## Setup
 - Step 1: Install nodejs  
   `sudo apt install nodejs`
 - Step 2: download code from github  
   `sudo git clone https://github.com/tu787878/api_momo.git`  
-  > Nếu chưa cài đặt git: `sudo apt install git`  
+  > install git if have not: `sudo apt install git`  
 - Step 3: install pm2 to run node code  
   `npm install -g pm2`  
 - Step 4: Install library for node  
